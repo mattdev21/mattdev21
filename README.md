@@ -1,12 +1,12 @@
 <h1 align="center">⚡ MATT KHAL ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Senior+SRE+%26+DevOps+Engineer;Kubernetes+%7C+Cloud+%7C+GitOps+Expert;AWS+%7C+GCP+%7C+Azure+Platform+Engineer;Building+Production-Grade+Distributed+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=950&lines=Senior+SRE+%26+DevOps+Engineer;Kubernetes+%7C+Cloud+Infrastructure+%7C+GitOps;AWS+%7C+GCP+%7C+Azure+Platform+Engineer;Building+Resilient+Production-Grade+Systems" />
 </p>
 
 ---
 
-# ⚙️ TECH STACK (CORE EXPERTISE)
+# ⚙️ CORE TECHNOLOGY STACK
 
 ## ☁️ Cloud Platforms
 <p>
@@ -18,106 +18,114 @@
 <img src="https://skillicons.dev/icons?i=kubernetes,docker,helm" />
 </p>
 
-## ⚙️ DevOps & GitOps
+## ⚙️ Infrastructure & Automation
 <p>
 <img src="https://skillicons.dev/icons?i=terraform,github,gitlab,jenkins" />
 </p>
 
-## 📡 Observability
+## 📡 Observability & Reliability
 <p>
 <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
 </p>
 
-## 💻 Languages
+## 💻 Engineering
 <p>
-<img src="https://skillicons.dev/icons?i=python,go,bash,sql" />
+<img src="https://skillicons.dev/icons?i=python,go,bash,linux" />
 </p>
 
 ---
 
-# 🧭 ABOUT ME
+# 🧠 ABOUT ME
 
-Senior Site Reliability Engineer with **10+ years experience** building:
+Senior Site Reliability Engineer with **10+ years of experience** designing and operating:
 
 - ☸️ Large-scale Kubernetes platforms (EKS / GKE / AKS)
-- 🔁 GitOps CI/CD automation systems
-- 📡 Observability + monitoring at scale
-- 🔐 Secure DevSecOps pipelines
-- 🏗 Internal developer platforms
+- 🔁 GitOps CI/CD systems (ArgoCD, GitHub Actions)
+- 📡 Observability stacks (Prometheus, Grafana, Datadog, OpenTelemetry)
+- 🔐 Secure DevSecOps pipelines (Vault, OPA, IAM, Snyk)
+- 🏗 Internal developer platforms (Backstage, golden paths)
 
-💡 I focus on **reliability, automation, scalability, and cloud efficiency**
+💡 I specialize in building systems that are:
+**Reliable • Scalable • Secure • Fully Automated**
 
 ---
 
-# 🚀 WHAT I BUILD
+# 🚀 SYSTEMS I BUILD IN PRODUCTION
 
-### ☸️ Cloud-Native Platforms
-Production-grade Kubernetes systems handling large-scale traffic with auto-scaling and high availability.
+## ☸️ Cloud-Native Platforms
+- Multi-cluster Kubernetes architecture
+- Auto-scaling workloads (HPA, Karpenter)
+- Service mesh (Istio, mTLS, traffic shaping)
 
-### 🔁 GitOps Delivery Systems
-ArgoCD + Terraform-based pipelines enabling zero-downtime deployments.
+## 🔁 GitOps Engineering
+- ArgoCD + Terraform-based deployments
+- Zero-downtime releases
+- Full infrastructure version control
 
-### 📡 Observability Engineering
-Full-stack monitoring systems using Prometheus, Grafana, OpenTelemetry, and Datadog.
+## 📡 Observability Engineering
+- Distributed tracing (OpenTelemetry)
+- Metrics + logs + alerts (Prometheus + ELK + Datadog)
+- SLO/SLI-driven reliability systems
 
-### 🔐 DevSecOps Automation
-Security-first pipelines with Vault, IAM policies, OPA, and vulnerability scanning.
+## 🔐 DevSecOps Engineering
+- Secure CI/CD pipelines
+- Policy-as-code (OPA / Gatekeeper)
+- Secrets management (Vault / AWS Secrets Manager)
 
-### 🏗 Platform Engineering
-Internal developer platforms with Backstage + self-service infrastructure provisioning.
+## 🏗 Platform Engineering
+- Internal developer platforms (Backstage)
+- Self-service infrastructure provisioning
+- Golden path standardization
 
 ---
 
 # 📊 IMPACT HIGHLIGHTS
 
-🔥 Managed systems with **400M+ daily requests**  
-⚡ Reduced deployment time: **46 min → 9 min**  
-📉 Reduced incident detection time by **70%**  
-💰 Significant cloud cost optimization via autoscaling  
-🛡 Built HIPAA / SOC2 / PCI-DSS compliant systems  
+🔥 400M+ daily requests supported  
+⚡ Deployment speed improved by **80%**  
+📉 Incident detection time reduced by **70%**  
+🚀 Reduced onboarding time from days → hours  
+💰 Significant cloud cost optimization via automation  
+🛡 Enterprise compliance: HIPAA / SOC2 / PCI-DSS  
 
 ---
 
-# 🏗 FEATURED PROJECTS
+# 🏗 FEATURED PRODUCTION PROJECTS
 
-### 🔐 Zero Trust Kubernetes Platform
-- Istio service mesh with mTLS encryption  
-- Canary deployments + traffic shaping  
+## 🔐 Zero Trust Kubernetes Platform
+- Istio service mesh with mTLS encryption
+- Canary deployments & traffic control
 - Full distributed tracing (OpenTelemetry)
 
 ---
 
-### 🔁 GitOps Transformation
-- Migrated CI/CD → ArgoCD + GitHub Actions  
-- Eliminated environment drift  
-- Fully version-controlled infrastructure  
+## 🔁 GitOps Transformation Engine
+- Migrated Jenkins → ArgoCD + GitHub Actions
+- Eliminated environment drift
+- Fully declarative infrastructure
 
 ---
 
-### 📡 Observability Platform
-- Unified logs + metrics + traces  
-- Reduced MTTR: 24 min → 7 min  
-- Intelligent alerting + anomaly detection  
+## 📡 Observability & Reliability Platform
+- Unified logging + metrics + tracing
+- MTTR reduced: 24 min → 7 min
+- Intelligent alert routing + anomaly detection
 
 ---
 
-### 🏗 Internal Developer Platform
-- Backstage-based self-service system  
-- Reduced onboarding time from days → hours  
-- Standardized infrastructure provisioning  
+## 🏗 Internal Developer Platform
+- Backstage self-service system
+- Automated environment provisioning
+- Reduced developer dependency on ops teams
 
 ---
 
 # 📬 CONTACT
 
-📧 Email: **mattcodehub@gmail.com**  
+📧 Email: mattcodehub@gmail.com  
 📍 Location: Richmond, TX  
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:1e90ff&height=120&section=footer"/>
-</p>
 
 <p align="center">
 ⚡ Built for Scale • Reliability • Automation • Cloud Excellence ⚡
